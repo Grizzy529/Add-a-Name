@@ -8,7 +8,7 @@ The script then prompts the user to enter the name to add to all files. The name
 
 Here is an example of how to run the script:
 
-`python add_name_to_files.py`
+`python3 add_name_to_files.py`
 
 When you run the script, it will prompt you to enter the name to add to all files. After you enter the name, the script will rename all the files in the current directory.
 
